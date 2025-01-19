@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ansh.raythatha122354@marwadiuniversity.ac.in**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ansh-raythatha-64b050287](www.linkedin.com/in/ansh-raythatha-64b050287)
+- 📄 Know about my experiences www.linkedin.com/in/ansh-raythatha-64b050287
 
 - ⚡ Fun fact **I balance coding with fitness and home workouts!**
 
