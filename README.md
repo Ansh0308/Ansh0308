@@ -64,24 +64,20 @@
 
 ## Featured projects
 
-| Project | What it does | Built with | Links |
-| :-- | :-- | :-- | :-- |
-| **ClinicOS** | Full-stack clinic management system with 4 role-based portals, real-time queue management, Razorpay payments with webhook verification, automated invoice delivery by email and WhatsApp, and an EHR module secured with JWT authentication and RBAC across 5 roles. | `WebSockets` `Razorpay` `JWT` `RBAC` `WhatsApp API` | [Repo](https://github.com/Ansh0308/ClinicOS) |
-| **AI Attendance System** | Face-recognition attendance system designed for 8 semesters: group-photo detection, automated email alerts, CSV export and cloud deployment. | `Python` `Flask` `YOLOv8` `InsightFace/ArcFace` `Docker` `Gunicorn` | [Repo](https://github.com/Hetansh20/face_recognition) |
-| **BlendBazaar** | Full-stack e-commerce app supporting 300+ users with JWT auth, Stripe payments, REST APIs, MySQL queries tuned for concurrent transactions, and an OpenAI-powered chatbot that reduced support queries by 40%. | `React` `Node.js` `MySQL` `Stripe` `OpenAI API` | [Repo](https://github.com/Ansh0308/BlendBazaar) · [Hackathon build](https://shivambhatt2305.github.io/-E-commerce-Website/) |
+<div align="center">
 
-<details>
-<summary><b>More projects</b></summary>
+<img src="assets/projects.svg?v=1" alt="Featured projects: ClinicOS, AI Attendance System, BlendBazaar, plus Engineer's Day, Sorting Visualizer and MediCare." width="100%">
 
-<br>
+</div>
 
-| Project | What it does | Built with | Links |
-| :-- | :-- | :-- | :-- |
-| **Engineer's Day** (ICT event registration portal) | Team registrations via GR lookup, OTP verification, admin dashboards, real-time tracking, and Excel/CSV export. | `React 18` `TypeScript` `Tailwind` `shadcn/ui` `Framer Motion` `Supabase` `Edge Functions (Deno)` `SMTP` `SheetJS` | [Repo](https://github.com/Ansh0308/engiday-connect) |
-| **Sorting Algorithms Visualizer** | Interactive Bubble / Selection / Insertion / Merge / Quick sort with step-by-step playback, metrics, themes, keyboard shortcuts, and accessible motion. | `JavaScript` `HTML5` `CSS3` `Web Animations API` `Web Audio API` | [Live](https://ansh0308.github.io/Sorting-Algorithms-Visualizer/) · [Repo](https://github.com/Ansh0308/Sorting-Algorithms-Visualizer) |
-| **MediCare** (medical assistance and emergency response) | Symptom-based diagnosis with verification, one-click SOS with live location (TomTom), predictive reports, and detection plus OTC-suggestion tools. | `TomTom Maps API` | [Repo](https://github.com/Shivambhatt2305/Medicare) |
-
-</details>
+| Project | Links |
+| :-- | :-- |
+| **ClinicOS** | [Repo](https://github.com/Ansh0308/ClinicOS) |
+| **AI Attendance System** | [Repo](https://github.com/Hetansh20/face_recognition) |
+| **BlendBazaar** | [Repo](https://github.com/Ansh0308/BlendBazaar) · [Hackathon build](https://shivambhatt2305.github.io/-E-commerce-Website/) |
+| **Engineer's Day** | [Repo](https://github.com/Ansh0308/engiday-connect) |
+| **Sorting Algorithms Visualizer** | [Live](https://ansh0308.github.io/Sorting-Algorithms-Visualizer/) · [Repo](https://github.com/Ansh0308/Sorting-Algorithms-Visualizer) |
+| **MediCare** | [Repo](https://github.com/Shivambhatt2305/Medicare) |
 
 <div align="center">
 
@@ -93,15 +89,11 @@
 
 ## Achievements & Activities
 
-| | |
-| :-- | :-- |
-| **2026** | 2nd place, **ChatGenAI**, eMUlate / MUFEST |
-| **2025** | Top 15 of 150+ teams, **Tic-Tech-Toe** (DA-IICT), with PackPal |
-| **2025** | 1st rank in Semester 5, **Academic Excellence** |
-| **2024** | **Smart India Hackathon**, national finalist |
-| **·** | Top 25 of 100+ teams, **Build & Brand Challenge** (GDG On-Campus MU × Adaa Jaipur × Belience Tech) |
-| **·** | Competitive Programming Club @ Marwadi University: organised and mentored a custom C libraries / header files event |
-| **Research** | Emerging Technologies for IoT-based Smart Cities |
+<div align="center">
+
+<img src="assets/achievements.svg?v=1" alt="Achievements: 2nd place ChatGenAI at eMUlate / MUFEST 2026, Top 15 at Tic-Tech-Toe 2025, 1st rank in Semester 5, Smart India Hackathon 2024 national finalist, Top 25 Build & Brand Challenge, Competitive Programming Club mentor, IoT research." width="100%">
+
+</div>
 
 <br>
 
